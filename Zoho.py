@@ -1,4 +1,4 @@
-n=9
+n=int(input())
 i=0
 j=0
 k=1
